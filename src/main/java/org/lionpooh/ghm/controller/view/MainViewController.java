@@ -13,6 +13,7 @@ public class MainViewController {
 
     @RequestMapping("/join")
     public String join() throws Exception {
+        //test
         return "join";
     }
     @RequestMapping("/")
