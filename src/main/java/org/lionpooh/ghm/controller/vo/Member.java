@@ -12,4 +12,7 @@ public class Member {
     @Id
     private String email;
     private String password;
+
+
+
 }
